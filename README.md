@@ -1,7 +1,9 @@
 # About that sample
 
-Forge Viewer Headless Test: This runs Forge Viewer in Chrome headless mode using (Puppeteer)[https://github.com/GoogleChrome/puppeteer].
+Forge Viewer Headless Test: This runs Forge Viewer in Chrome headless mode using [Puppeteer](https://github.com/GoogleChrome/puppeteer).
 Illustrates how to take a valid screenshot of a Forge Model.
+
+![thumbnail](puppet.jpeg)
 
 ## setup
 
